@@ -1,0 +1,1 @@
+export const bannableGames = ["league of legends"];
