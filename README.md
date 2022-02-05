@@ -10,5 +10,5 @@ discord bot that will check currently played games against a list of games that 
 
 4. invite banbot with admin privileges, then call /bantime when you see someone playing trash
 
-#addendum
+## addendum
 under src/resources/bannable-games.ts you can add games you want to ban based off of as the name of the game as it appears in discord but completely lower case!
